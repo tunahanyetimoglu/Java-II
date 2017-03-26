@@ -21,7 +21,7 @@ class Deneme extends Sınıf{
 		System.out.println(t + k);
 	}
 }
-  public class Exercise_1{
+  public class super_Method{
   	public static void main(String args[]){
   		Deneme a = new Deneme(1,2,3);
   		a.yazdir("Respect :");

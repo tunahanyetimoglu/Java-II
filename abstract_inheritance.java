@@ -65,7 +65,7 @@ class daire extends GeometrikSekil{
 }
 
 
-public class odev{
+public class abstract_inheritance{
   public static void main(String args[]){
     ucgen a = new ucgen();
     yamuk b = new yamuk();

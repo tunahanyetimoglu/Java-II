@@ -37,7 +37,7 @@ class Voleybolcu extends Sporcu{
 	}
 }
 
-public class Exercise_4{
+public class abstract_class{
 	public static void main(String args[]){
 		Basketbolcu a = new Basketbolcu();
 		Voleybolcu b = new Voleybolcu();

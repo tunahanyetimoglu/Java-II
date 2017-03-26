@@ -23,7 +23,7 @@ class Sınıf{
 	}
 } */
 
-public class Exercise_2{
+public class toString_override{
 public static void main(String args[]){
      Sınıf s1 = new Sınıf();
      System.out.println(s1);
